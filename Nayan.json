@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "ZORO MAIGGA",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61553339027485",
+    "100072881080249"
   ],
   "ADMINBOT": [
-    "100014896964436",
-    "100000959749712"
+    "100072881080249",
+    "100066135337203"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
