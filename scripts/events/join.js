@@ -54,7 +54,7 @@ let gifPath = __dirname + '/Nayan/join/join.gif';
 axios.get(gifUrl, { responseType: 'arraybuffer' })
 .then(response => {
     fs.writeFileSync(gifPath, response.data);
-    return api.sendMessage("YOUR SUGAR DADDY IS HERE GIRLS SPREAD YOUR LEGS NOW 🤤🤤CAUSS I WANNA PUT MY DICK INSIDE YOUR VAGINA HOLE-MAHI", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
+    return api.sendMessage("IF YOU WANT TO SEE BEST TRUSTABLE FRIEND WATCH ZORO AND IF YOU WANT TO SEE REAL VILLAN WATCH LORD AIZEN 👑", event.threadID, () => api.sendMessage({ body: `${global.config.BOTNAME} CONNECTED«\n\nAssalamualaykum☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
