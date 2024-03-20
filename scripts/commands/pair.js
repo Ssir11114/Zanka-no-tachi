@@ -7,7 +7,7 @@ module.exports.config = {
   credits: "Nayan",
   description: "It's a compound :>",
   category: "fun",
-  usages: "admin",
+  usages: "",
   dependencies: {
         "axios": "",
         "fs-extra": ""
