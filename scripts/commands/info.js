@@ -28,8 +28,10 @@ var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
   
 var callback = () => api.sendMessage({body:`
 --------------------------------------------
-𝐍𝐚𝐦𝐞       : EASIR IQBAL MAHI
+𝐍𝐚𝐦𝐞: EASIR IQBAL MAHI
+𝐍𝐚𝐦𝐞2 : An'Tor (2nd admin)
 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : HOPELESS MAHI
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤2 : STRAWHAT AN'TOR 
 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧   : 𝐈𝐬𝐥𝐚𝐦
 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: BAGHA, RAJSHAHI 
 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬: BAGHA, RAJSHAHI 
