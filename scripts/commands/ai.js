@@ -6,7 +6,7 @@ module.exports = {
   permission: 0,
   credits: "Nayan",
   description: "",
-  prefix: true, 
+  prefix: 'awto', 
   category: "user", 
   usages: "query",
   cooldowns: 5,
