@@ -1,9 +1,9 @@
 /** Đổi Credit ? Bọn t đã không mã hóa cho mà edit rồi thì tôn trọng nhau tý đi ¯\_(ツ)_/¯ **/
 module.exports.config = {
-  name: "ig",
+  name: "magi",
   version: "1.0.0", 
   permission: 0,
-  credits: "Mohammad Rahad",
+  credits: "Easir Iqbal Mahi",
   description: "", 
   prefix: true,
   category: "user",
